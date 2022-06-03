@@ -11,7 +11,7 @@ Email: larry.jeylor@gmail.com
 
 *************
 ## About me
-I don't have any experience in this field. I'm a very hard-working person, kind and undestanding. I graduaded from university almost a year ago and still couldn't find a cool job.  I studied linguistics so I know English and German but English is my passion. I was working at the call-center but didn't like it there so I quitted.And now I want to try my skills here even though I don't know anything. But I know I'll try my best. 
+I don't have any experience in this field. I'm a very hard-working person, kind and undestanding. I graduaded from university almost a year ago and still couldn't find a cool job.  I studied linguistics so I know English and German but English is my passion. I was working at the call-center but didn't like it there so I quitted.And now I want to try my skills here even though I don't know anything. But I know I'll try my best. Thanks for this opportunity! 
 
 *********
 ## Code example: 
