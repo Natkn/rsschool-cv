@@ -1,4 +1,4 @@
- body{
+body {
   font-family: 'Joan', serif;
   font-size: 18px;
   font-weight: 400;
@@ -111,7 +111,9 @@ header {
     cursor: pointer;
     text-decoration: none;
     text-decoration-line: none;
-  
+    text-decoration-thickness: none;
+    text-decoration-style: none;
+    text-decoration-color: none;
 }
   @media (max-width: 768px) {
     .section {
